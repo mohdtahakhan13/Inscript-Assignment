@@ -4,18 +4,18 @@ A React-based spreadsheet-style interface with tab navigation, sortable columns,
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ **Tabbed interface** with dynamic content switching  
-- 📊 **Excel-like data grid** with 25+ rows and 10 columns  
-- 🔘 **Interactive cells** with click handlers and focus states  
-- 🟢 **Status indicators** with color-coded badges  
-- 📱 **Responsive design** built with Tailwind CSS  
-- 🧠 **Type-safe** implementation using TypeScript  
+-  **Tabbed interface** with dynamic content switching  
+-  **Excel-like data grid** with 25+ rows and 10 columns  
+-  **Interactive cells** with click handlers and focus states  
+-  **Status indicators** with color-coded badges  
+- **Responsive design** built with Tailwind CSS  
+- **Type-safe** implementation using TypeScript  
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 18  
 - **Styling**: Tailwind CSS  
@@ -25,7 +25,7 @@ A React-based spreadsheet-style interface with tab navigation, sortable columns,
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 
 ```bash
@@ -38,18 +38,18 @@ yarn install
 Visit: http://localhost:3000
 ## Project Structure
 src/
-├── components/              # React components
-│   ├── HeaderSection.tsx    # Tab navigation
-│   └── DataTableSection.tsx # Main data grid
-├── ui/                      # UI primitives
-│   ├── tabs.tsx             # Tab components
-│   ├── table.tsx            # Table components
-│   └── badge.tsx            # Status badges
-├── lib/
-│   └── utils.ts             # Utility functions
-├── types/
-│   └── index.ts             # Type definitions
-└── App.tsx                  # Main application
-📬 Contact
+-├── components/              # React components
+-│   ├── HeaderSection.tsx    # Tab navigation
+-│   └── DataTableSection.tsx # Main data grid
+-├── ui/                      # UI primitives
+-│   ├── tabs.tsx             # Tab components
+-│   ├── table.tsx            # Table components
+-│   └── badge.tsx            # Status badges
+-├── lib/
+-│   └── utils.ts             # Utility functions
+-├── types/
+-│   └── index.ts             # Type definitions
+-└── App.tsx                  # Main application
+##  Contact
 Mohd Taha Khan– mohdtahakhan13@gmail.com
-Project Link: 
+Project Link: https://inscript-assignment.onrender.com/
